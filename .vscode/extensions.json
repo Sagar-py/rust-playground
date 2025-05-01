@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+      "rust-lang.rust-analyzer",
+      "vadimcn.vscode-lldb",
+      "yoavbls.dependi",
+      "swellaby.vscode-rust-test-adapter",
+      "usernamehw.errorlens",
+      "bungcip.better-toml",
+      "coenraads.bracket-pair-colorizer-2"
+    ],
+    "unwantedRecommendations": [
+      "rust-lang.rust"  // legacy RLS extension, no longer needed
+    ]
+  }
+  
